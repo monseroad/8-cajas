@@ -8,7 +8,7 @@ div{
 
 .uno{
 	position: absolute;
-	left: 108px;
+	left: 109px;
 	border-top-style: solid;
 	border-bottom-style: solid;
 	border-width: thin;
@@ -17,7 +17,7 @@ div{
 }
 .dos{
 	position: absolute;
-	right: 716px;
+	left: 209px;
 	border-top-style: solid;
 	border-right-style: solid;
 	border-bottom-style: solid;
@@ -31,7 +31,7 @@ div{
 }
 .cuatro{
 	position: absolute;
-	right: 800px;
+	right: 1380px;
 	border-style: solid;
 	border-width: thin;
 
