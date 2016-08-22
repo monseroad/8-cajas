@@ -1,0 +1,52 @@
+div{
+	width: 100px;
+	height: 100px;
+	background-color: #FF3354;
+	margin-top: 10px;
+	
+}
+
+.uno{
+	position: absolute;
+	left: 108px;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-width: thin;
+	
+	
+}
+.dos{
+	position: absolute;
+	right: 716px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-width: thin;
+}
+.tres{
+	border-top-style: solid;
+	border-left-style: solid;
+	border-bottom-style: solid;
+	border-width: thin;
+}
+.cuatro{
+	position: absolute;
+	right: 800px;
+	border-style: solid;
+	border-width: thin;
+
+}
+.solo{
+	border-style: solid;
+	border-width: thin;
+}
+
+
+.cuadro{
+	display: inline-block;
+	margin: 10px;
+	width: 80px;
+	height: 80px;
+	border-style: solid;
+	border-width: thin;
+}
